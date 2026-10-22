@@ -1,0 +1,2 @@
+# ModelInspector-SW2025
+模型体检-ModelInspector是为SolidWorks2025编写的插件，旨在一次性检查一个文件夹下的所有SolidWorks文件并生成CSV文档作为报表。
